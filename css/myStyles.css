@@ -1,0 +1,28 @@
+.header{
+    text-align:center;
+    padding: 50px;
+    font-size: 25px;
+    background-color:black;
+    color:#eae9a1;
+    height:150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.links{
+    text-align: center;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #eae9a1;
+}
+.normal{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#eae9a1;
+}
+ul.myul{
+    display: inline-block;
+    text-align: left;
+}
+.footer{
+    background-color: black;
+}
